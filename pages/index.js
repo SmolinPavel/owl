@@ -8,13 +8,12 @@ export default withRouter(props => (
     <div className="markdown">
       <Markdown
         source={`
-This is our blog post.
-Yes. We can have a [link](/link).
-And we can have a title as well.
+Hi I am Pavel.
+You can check my github profile [github profile](https://github.com/SmolinPavel).
 
-### This is a title
+### Wanna see some owl?
 
-And here's the content.
+Just click the owl link.
      `}
       />
     </div>
