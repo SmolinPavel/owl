@@ -1,0 +1,11 @@
+node_modules
+dist
+lib
+build
+.DS_Store
+.idea
+.env
+coverage
+reports
+.cache
+**/*.log
