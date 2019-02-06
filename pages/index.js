@@ -13,7 +13,7 @@ You can check my github profile [github profile](https://github.com/SmolinPavel)
 
 ### Wanna see some owl?
 
-Just click the owl link.
+Just click the owl [link](/owl).
      `}
       />
     </div>

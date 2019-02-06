@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "node --experimental-modules server.mjs",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js"
+    "start": "next start -p 8000"
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",

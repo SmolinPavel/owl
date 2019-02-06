@@ -1,17 +1,6 @@
-import Link from "next/link";
-
-const linkStyle = {
-  marginRight: 15
-};
-
 const Header = () => (
   <div>
-    <Link href="/">
-      <a style={linkStyle}>Home</a>
-    </Link>
-    <Link href="/owl">
-      <a style={linkStyle}>Owl</a>
-    </Link>
+    <h1>🦉 The Owl is here!!! </h1>
   </div>
 );
 
