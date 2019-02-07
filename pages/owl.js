@@ -4,7 +4,7 @@ import "./owl.css";
 
 export default () => (
   <Layout>
-    <h1>And it's watching you...</h1>
+    <h1>And it is watching you...</h1>
     <div className="box">
       <div className="body">
         <div className="head" />
